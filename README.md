@@ -1,5 +1,5 @@
 # midi-keyboard
-##Virtual Midi Keyboard coded in Java included, pre-made tunes.<br/>
+##Virtual Midi Keyboard coded in Java included, pre-made tunes.##<br/>
 Implements MVC software structure<br/>
 <pre><code>A virtual keyboard on the computer using graphical interfaces and the Java library to generate music. 
 Keyboard implements keynote playback as midi sound. Included are volume control via ticked slider. 
