@@ -1,4 +1,4 @@
-# midi-keyboard
+# Midi Keyboard
 <header>
 <h1>Virtual Midi Keyboard coded in Java.</h1> 
 <h2>Included, are pre-made tunes</h2><br/>
